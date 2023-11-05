@@ -1,3 +1,4 @@
+# import statements
 import json
 from datetime import datetime
 
@@ -62,3 +63,8 @@ print(f"Total expenses for month = {total_expenses_for_month}")
 for category, total in expenses_per_category.items():
     print(f"Total {category} expense = {total}")
     print(f"Number of {category} expenses = {number_of_expenses_per_category[category]}")
+
+
+# At the end of expenses.py, after the calculations
+if __name__ == "__main__":
+    calculate_expenses()
