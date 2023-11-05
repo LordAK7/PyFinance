@@ -4,7 +4,7 @@ import json
 from datetime import datetime
 import os
 
-# Define the structure of the finance statement
+# Structure of the finance statement
 finance_categories = [
     "groceries",
     "travel",
