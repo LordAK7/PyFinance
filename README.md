@@ -39,6 +39,12 @@ The number of expenses per category.
 ```bash
 python histogram.py
 ```
+The percentage of the total amount of expenses per category.
+![image](https://github.com/LordAK7/PyFinance/assets/90541300/70380c6a-a45c-4bd1-b5af-4d448ffa870d)
+
+The number of expenses per category.
+![image](https://github.com/LordAK7/PyFinance/assets/90541300/6f45cf5d-7fa2-4978-8011-b3edb2587a6f)
+
 
 
 ## Contributing
