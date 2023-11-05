@@ -18,3 +18,30 @@ To add a finance statement, run the `main.py` script and follow the prompts:
 
 ```bash
 python main.py
+
+### Calculating Expenses
+
+To calculate the expenses for the current month, run the expenses.py 
+it will also update the global variables with the total expenses for the month and the expenses per category.
+
+```bash
+python expenses.py
+
+### Generating Histograms
+
+To generate histograms based on the calculated expenses, first ensure that expenses.py has been run, then execute:
+Two histograms will be displayed:
+
+    The percentage of the total amount of expenses per category.
+    The number of expenses per category.
+
+```bash
+python histogram.py
+
+
+##Contributing
+
+###Contributions to this project are welcome. Please fork the repository and submit a pull request.
+License
+
+This project is open-source and available under the MIT License.
